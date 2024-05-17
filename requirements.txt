@@ -1,2 +1,2 @@
 line-bot-sdk
-flask == 2
+flask
